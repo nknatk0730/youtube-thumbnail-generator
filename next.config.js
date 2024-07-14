@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/code-to-image',
+  basePath: '/youtube-thumbnail-generator',
   images: {
     unoptimized: true,
   },
